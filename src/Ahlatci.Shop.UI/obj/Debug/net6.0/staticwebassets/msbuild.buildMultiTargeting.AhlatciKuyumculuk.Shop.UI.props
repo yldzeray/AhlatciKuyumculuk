@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AhlatciKuyumculuk.Shop.UI.props" />
+</Project>

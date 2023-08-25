@@ -1,0 +1,12 @@
+C:\Users\eray0\Desktop\ahlatcishop-main\src\Ahlatci.Shop.Domain\bin\Debug\net6.0\Ahlatci.Shop.Domain.deps.json
+C:\Users\eray0\Desktop\ahlatcishop-main\src\Ahlatci.Shop.Domain\bin\Debug\net6.0\Ahlatci.Shop.Domain.dll
+C:\Users\eray0\Desktop\ahlatcishop-main\src\Ahlatci.Shop.Domain\bin\Debug\net6.0\Ahlatci.Shop.Domain.pdb
+C:\Users\eray0\Desktop\ahlatcishop-main\src\Ahlatci.Shop.Domain\obj\Debug\net6.0\Ahlatci.Shop.Domain.csproj.AssemblyReference.cache
+C:\Users\eray0\Desktop\ahlatcishop-main\src\Ahlatci.Shop.Domain\obj\Debug\net6.0\Ahlatci.Shop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eray0\Desktop\ahlatcishop-main\src\Ahlatci.Shop.Domain\obj\Debug\net6.0\Ahlatci.Shop.Domain.AssemblyInfoInputs.cache
+C:\Users\eray0\Desktop\ahlatcishop-main\src\Ahlatci.Shop.Domain\obj\Debug\net6.0\Ahlatci.Shop.Domain.AssemblyInfo.cs
+C:\Users\eray0\Desktop\ahlatcishop-main\src\Ahlatci.Shop.Domain\obj\Debug\net6.0\Ahlatci.Shop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eray0\Desktop\ahlatcishop-main\src\Ahlatci.Shop.Domain\obj\Debug\net6.0\Ahlatci.Shop.Domain.dll
+C:\Users\eray0\Desktop\ahlatcishop-main\src\Ahlatci.Shop.Domain\obj\Debug\net6.0\refint\Ahlatci.Shop.Domain.dll
+C:\Users\eray0\Desktop\ahlatcishop-main\src\Ahlatci.Shop.Domain\obj\Debug\net6.0\Ahlatci.Shop.Domain.pdb
+C:\Users\eray0\Desktop\ahlatcishop-main\src\Ahlatci.Shop.Domain\obj\Debug\net6.0\ref\Ahlatci.Shop.Domain.dll
